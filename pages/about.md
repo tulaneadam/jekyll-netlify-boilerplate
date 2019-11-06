@@ -4,8 +4,8 @@ title: About
 permalink: /about
 section: about
 intro_paragraph: >-
-  This is an example of a [standard](google.com) Jekyll page. You can edit it
-  with Netlify
+  This is an example of a [standard](https://www.google.com) Jekyll page. You
+  can edit it with Netlify
 
   CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a
   text editor.
